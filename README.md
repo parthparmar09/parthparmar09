@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Parmar</h1>
-<h3 align="center">A passionate learner full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack learner from India</h3>
 
 - 🌱 I’m currently learning **Express , Node.js , React.js**
 
