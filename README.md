@@ -7,7 +7,7 @@
 
 - 📃 My previous project was [fakestore-server](https://fakestore-server.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [https://parthparmar09.github.io/](https://parthparmar09.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/parthparmar09/](https://github.com/parthparmar09/)
 
 - 📫 How to reach me **pp073522@gmail.com**
 
