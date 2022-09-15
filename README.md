@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parth Parmar</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on [FakeStore](https://fakestore-client.herokuapp.com/)
+- 🔭 I’m currently working on [WhatsApp web clone](/)
 
 - 🌱 I’m currently learning **MongoDB , Express , React.js , Node.js**
 
-- 📃 My previous project was [fakestore-server](https://fakestore-server.herokuapp.com/)
+- 📃 My previous project was [FakeStore](https://fakestore-client.herokuapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/parthparmar09/](https://github.com/parthparmar09/)
 
