@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **MongoDB, React.js, Express.js, Node.js, Material-UI**
 
+- 📂 My recent project was [FakeStore](https://fakestore-client.herokuapp.com/
+
 - 💬 Ask me about **javascript, node and react**
 
 - 📫 How to reach me **pp073522@gmail.com**
